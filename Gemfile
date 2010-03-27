@@ -7,6 +7,7 @@ git "http://github.com/rails/rack.git"
 
 gem "rails", "3.0.0.beta1"
 
+gem 'haml'
 ## Bundle edge rails:
 # gem "rails", :git => "git://github.com/rails/rails.git"
 
