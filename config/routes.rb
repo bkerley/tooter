@@ -1,5 +1,5 @@
 Tooter::Application.routes.draw do |map|
-  match 'toot' => 'toots#index'
+  root :to => 'toots#index'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
